@@ -1,2 +1,5 @@
-# kitchen_clock_update_status
-Public facing status of current Kitchen_clock updates.
+# DiDacTex LLC
+This repository contains the current version and update changes for DiDacTex's Kitchen Clock
+
+## Version Update Changes
+* NA on inital code base.
